@@ -5,7 +5,7 @@
   "panel_icon": "mdi:face-recognition",
   "slug": "double-take-beta",
   "description": "Unified UI and API for processing and training images for facial recognition",
-  "arch": ["amd64"],
+  "arch": ["armv7", "aarch64", "amd64"],
   "startup": "application",
   "boot": "auto",
   "ingress": true,

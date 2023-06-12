@@ -1,1 +1,1 @@
-FROM jakowenko/double-take:beta
+FROM irakhlin/double-take:beta
